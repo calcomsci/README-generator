@@ -2,15 +2,13 @@
 
 Software license for this software:
 
-![Welcome to Music Clip](/assets/images/4.png)
+MIT License
 
-
+https://opensource.org/licenses/MIT
 
 # Welcome to README generator
 
-Creative Commons License
 
-creativecommons.org/licenses/
 
   
 [Description of this software](description)
