@@ -73,6 +73,7 @@ Markdown is used to generate the README.md, and this README file as well
 
 ## How to install and use
 
+Watch this YouTube video for instructions to get you started: https://youtu.be/-dIlbnUuC0c
 
 From Github, you can download the source code by clicking on the Code button and download the zip file here: https://www.github.com/calcomsci
 
