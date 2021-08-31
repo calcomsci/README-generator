@@ -73,4 +73,6 @@ You can visit my Github profile (where you should have found out about this soft
 You can write an e-mail to calcomsci@outlook.com 
 
 Please watch the YouTube video here for instructions (Windows):  https://youtu.be/Cu2uDgotTF0
+
 If you have a Mac, please use Terminal and look at the commands used : npm install package.json, and node index.js
+
