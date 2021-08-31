@@ -27,7 +27,9 @@ SO THAT I can make documentation for the software that I publish
 
 [Acceptance Criteria](acceptance-criteria)
 
-GIVEN a command-line application that accepts user input, WHEN I am prompted for information about my application repository, THEN a high-quality, professional README.md is generated with the title of my project and section entitled Description/Table of Contents/Installation/Usage/License/Contributing/Tests/Questions
+GIVEN a command-line application that accepts user input, 
+WHEN I am prompted for information about my application repository, 
+THEN a high-quality, professional README.md is generated with the title of my project and section entitled Description
 
 
 You can view the software's web page at this link. [Welcome to README generator](https://calcomsci.github.io/README-generator/)
