@@ -40,13 +40,13 @@ NODE.JS
 
 What NODE.JS  is used for:
 
-NODE.JS is used to run JavaScript commands in the Bash or Terminal
+NODE.JS is used to run commands in Bash or Terminal
 
 JavaScript
 
 What JavaScript is used for:
 
-JavaScript is main programming language used to build this software
+JavaScript is the main programming language used to build this software
 
 Markdown
 
@@ -60,11 +60,11 @@ From Github, you can download the source code by clicking on the Code button and
 
 You will need a code editor to view the source code. You may try Visual Studio Code. You may download Visual Studio Code here: https://code.visualstudio.com/Download
 
-You will probably need node.js to install packages from the source code. You may download node.js here: https://nodejs.org/en/download/
+You will need node.js to install packages from the source code. You may download node.js here: https://nodejs.org/en/download/
 
 [Contact for Comments, Concerns, Questions, etc.](contact)
 
-If you wish to contribute to this open source software, please contact me, and/or fork this on Github
+If you wish to contribute to this open source software, please contact me, and/or fork/star/watch this repository on Github
 
 [Contact for Comments, Concerns, Questions, etc.](contact)
 
