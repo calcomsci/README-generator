@@ -15,7 +15,8 @@
 
 [How to install and use](#how-to-install-and-use) 
 
-[Contact for Comments, Concerns, Questions, etc.](#contact)
+[Contact for Comments, Concerns, Questions, etc.](#contact) 
+<br>
 [Software License](software-license)
 Welcome to the README-generator!
 When you have properly set up Visual Studio Code, your Terminal should look like this and you can begin to use this app:
