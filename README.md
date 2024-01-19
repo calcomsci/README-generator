@@ -13,7 +13,7 @@
 
 [Key Technologies Used](#key-technologies-used)
 
-[Installation](#how-to-install) 
+[Installation](#installation) 
 
 [Contact](#contact)
 
