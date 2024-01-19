@@ -16,9 +16,7 @@
 [How to Install and Use](#how-to-install) 
 
 [Contact for Comments, Concerns, Questions, Etc.](#contact)
-<br>
 
-<br>
 Welcome to the README-generator!
 When you have properly set up Visual Studio Code, your Terminal should look like this and you can begin to use this app:
 ![README-generator](./assets/images/README-generator-splash.png)
