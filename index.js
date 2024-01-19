@@ -130,7 +130,7 @@ const generateMarkdown = (answers) =>
 
 [Software License](#software-license)
 
-[Description of this software](#description-of-this-software)
+[Description](#description)
 
 [User Story](#user-story) 
 
@@ -138,14 +138,18 @@ const generateMarkdown = (answers) =>
 
 [Key Technologies Used](#key-technologies-used)
 
-[How to install and use](#how-to-install-and-use) 
+[How to Install and Use](#how-to-install-and-use) 
 
-[Contact for Comments, Concerns, Questions, etc.](#contact)
+[Contact for Comments, Concerns, Questions, Etc.](#contact)
 <br>
-[Software License](software-license)
+
+<br>
 Welcome to the README-generator!
 When you have properly set up Visual Studio Code, your Terminal should look like this and you can begin to use this app:
 ![README-generator](./assets/images/README-generator-splash.png)
+
+<br>
+## Software License
 Software license for this software:
 
 ![${answers.webname}](/assets/images/${answers.giforpic})
@@ -159,12 +163,12 @@ ${answers.license}
 ${answers.licenselink}
 
   
-[Description of this software](description)
+## Description
 
 ${answers.description}
 
 
-[User Story](user-story) 
+## User Story
 
 AS A ${answers.asA} 
 
@@ -173,14 +177,14 @@ I WANT ${answers.iWant}
 SO THAT I ${answers.soThatI}
 
 
-[Acceptance Criteria](acceptance-criteria)
+## Acceptance Criteria
 
 ${answers.acceptance}
 
 
 You can view the software's web page at this link. [${answers.webname}](${answers.livelink})
 
-[Three Key Technologies Used, if any](key-technologies-used)
+## Key Technologies Used
 
 ${answers.first} 
 
@@ -200,7 +204,7 @@ What ${answers.third} is used for:
 
 ${answers.description3}
 
-[How to use and install this open source software](how-to-install)
+## How to Install and Use(how-to-install)
 
 From Github, you can download the source code by clicking on the Code button and download the zip file here: https://www.github.com/${answers.githubname}
 
@@ -208,11 +212,10 @@ You will need a code editor to view the source code. You may try Visual Studio C
 
 You will probably need node.js to install packages from the source code. You may download node.js here: https://nodejs.org/en/download/
 
-[Contact for Comments, Concerns, Questions, etc.](contact)
+
+## Contact for Comments, Concerns, Questions, Etc.(contact)
 
 If you wish to contribute to this open source software, please contact me, and/or fork this on Github
-
-[Contact for Comments, Concerns, Questions, etc.](contact)
 
 You can visit my Github profile (where you should have found out about this software) at: https://www.github.com/${answers.githubname}
 
