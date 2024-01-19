@@ -138,9 +138,9 @@ const generateMarkdown = (answers) =>
 
 [Key Technologies Used](#key-technologies-used)
 
-[How to Install and Use](#how-to-install) 
+[Installation](#installation) 
 
-[Contact for Comments, Concerns, Questions, Etc.](#contact)
+[Contact](#contact)
 
 Welcome to the README-generator!
 When you have properly set up Visual Studio Code, your Terminal should look like this and you can begin to use this app:
@@ -201,7 +201,7 @@ What ${answers.third} is used for:
 
 ${answers.description3}
 
-## How to Install and Use
+## Installation
 
 From Github, you can download the source code by clicking on the Code button and download the zip file here: https://www.github.com/${answers.githubname}
 
@@ -210,7 +210,7 @@ You will need a code editor to view the source code. You may try Visual Studio C
 You will probably need node.js to install packages from the source code. You may download node.js here: https://nodejs.org/en/download/
 
 
-## Contact for Comments, Concerns, Questions, Etc.
+## Contact
 
 If you wish to contribute to this open source software, please contact me, and/or fork this on Github
 

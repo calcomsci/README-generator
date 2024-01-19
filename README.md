@@ -78,7 +78,7 @@ What 1 is used for:
 
 ## Installation
 
-From github, you can download the source code by clicking on the Code button and downloading the zip file here: https://www.github.com/1
+From Github, you can download the source code by clicking on the Code button and download the zip file here: https://www.github.com/1
 
 You will need a code editor to view the source code. You may try Visual Studio Code. You may download Visual Studio Code here: https://code.visualstudio.com/Download
 
@@ -87,7 +87,7 @@ You will probably need node.js to install packages from the source code. You may
 
 ## Contact
 
-If you wish to contribute to this open-source software, please contact me, and/or fork this on Github
+If you wish to contribute to this open source software, please contact me, and/or fork this on Github
 
 You can visit my Github profile (where you should have found out about this software) at: https://www.github.com/1
 
