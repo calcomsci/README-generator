@@ -138,7 +138,7 @@ const generateMarkdown = (answers) =>
 
 [Key Technologies Used](#key-technologies-used)
 
-[How to Install and Use](#how-to-install-and-use) 
+[How to Install and Use](#how-to-install) 
 
 [Contact for Comments, Concerns, Questions, Etc.](#contact)
 <br>

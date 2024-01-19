@@ -15,11 +15,9 @@
 
 [How to Install and Use](#how-to-install-and-use) 
 
-<<<<<<< HEAD
 [Contact for Comments, Concerns, Questions, Etc.](#contact)
 <br>
 
-=======
 [Contact for Comments, Concerns, Questions, etc.](#contact) 
 <br>
 <br>
