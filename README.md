@@ -1,12 +1,14 @@
-[Software License](software-license)
-
+![Software License](software-license)
+Welcome to the README-generator!
+When you have properly set up Visual Studio Code, your Terminal should look like this and you can begin to use this app:
+![README-generator](./assets/images/README-generator-splash.png)
 Software license for this software:
 
-![Welcome to Hector De Perio's  README generator](/assets/images/2.png)
+![Welcome to the README generator!](/assets/images/2.png)
 
 
 
-# Welcome to Hector De Perio's  README generator
+# Welcome to the README generator!
 
 MIT License
 
@@ -15,24 +17,24 @@ mit-license.org
   
 [Description of this software](description)
 
-The README generator creates a readme file in Markdown (.MD) format that creates documentation for your Github repository, or any software that you want to make.
+The README generator creates a README file in Markdown (.MD) format. Create a professional README file for your Github repository in minutes!
 
 
 [User Story](user-story) 
 
-AS A software engineer 
+AS A Github developer 
 
-I WANT to create documentation for my software 
+I WANT to have a clean README file for my Github repository 
 
-SO THAT my users know how to use my software correctly, and know who to contact for support with the software
+SO THAT I I can have good documentation on my published software
 
 
 [Acceptance Criteria](acceptance-criteria)
 
-GIVEN a command-line application Visual Studio Code that accepts user input, WHEN I am prompted for information about my application repository, THEN a high-quality, professional README.md is generated with the title of my project and section entitled Description/Table of Contents/Installation/Usage/License/Contributing/Tests/Questions
+GIVEN a command-line application that accepts user input, WHEN I am prompted for information about my application repository, THEN a high-quality, professional README.md is generated with the title of my project and section entitled Description/Table of Contents/Installation/Usage/License/Contributing/Tests/Questions" 
 
 
-You can view the software's web page at this link. [Welcome to Hector De Perio's  README generator](http://github.com/README-generator)
+You can view the software's web page at this link. [Welcome to the README generator!](https://github.com/calcomsci/README-generator)
 
 [Three Key Technologies Used, if any](key-technologies-used)
 
@@ -40,19 +42,19 @@ NodeJS
 
 What NodeJS  is used for:
 
-NodeJS is used to create the prompts for the user and to create the Markdown (.MD) file when the process is finished
-
-Visual Studio Code
-
-What Visual Studio Code is used for:
-
-Visual Studio Code should be used to navigate through the questions and to look at the source code if you wish to look at it.
+NodeJS is used to create the user prompts and the README file in Markdown (.MD) format
 
 Github
 
 What Github is used for:
 
-Github is used to upload the repository and the site where you would upload the Markdown README file.
+Github is used to upload the repository for this application.
+
+Markdown
+
+What Markdown is used for:
+
+Markdown is the programming language used for the Markdown (.MD) file
 
 [How to use and install this open source software](how-to-install)
 
