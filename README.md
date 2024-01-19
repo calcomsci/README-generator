@@ -20,16 +20,16 @@ The README generator creates a readme file in Markdown (.MD) format that creates
 
 [User Story](user-story) 
 
-AS A AS A software engineer 
+AS A software engineer 
 
-I WANT I WANT to create documentation for my software 
+I WANT to create documentation for my software 
 
-SO THAT I SO THAT my users know how to use my software correctly, and  know who to contact for support with the software
+SO THAT my users know how to use my software correctly, and know who to contact for support with the software
 
 
 [Acceptance Criteria](acceptance-criteria)
 
-GIVEN a command-line application Visual Studio Code that accepts user input, WHEN I am prompted for information about my application repository, THEN a high-quality, professional README.md is generated with the title of my project and section entitled Description/Table of Contents/Installation/Usage/License/Contributing/Tests/Questions"
+GIVEN a command-line application Visual Studio Code that accepts user input, WHEN I am prompted for information about my application repository, THEN a high-quality, professional README.md is generated with the title of my project and section entitled Description/Table of Contents/Installation/Usage/License/Contributing/Tests/Questions
 
 
 You can view the software's web page at this link. [Welcome to Hector De Perio's  README generator](http://github.com/README-generator)
@@ -40,19 +40,19 @@ NodeJS
 
 What NodeJS  is used for:
 
-NodeJS is used to create the prompts for the user, and to create the Markdown (.MD) file when the process is finished
+NodeJS is used to create the prompts for the user and to create the Markdown (.MD) file when the process is finished
 
 Visual Studio Code
 
 What Visual Studio Code is used for:
 
-Visual Studio Code should be used to navigate through the questions, and to look at the source code if you wish to look at it.
+Visual Studio Code should be used to navigate through the questions and to look at the source code if you wish to look at it.
 
 Github
 
 What Github is used for:
 
-Github is used to upload the repository, and the site where you would upload the Markdown README file.
+Github is used to upload the repository and the site where you would upload the Markdown README file.
 
 [How to use and install this open source software](how-to-install)
 
