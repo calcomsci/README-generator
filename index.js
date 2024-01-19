@@ -122,7 +122,26 @@ const generateMarkdown = (answers) =>
 
 
 //The readme.md markdown starts here
-`[Software License](software-license)
+
+`
+## Table of Contents
+
+[Table of Contents](#table-of-contents)
+
+[Software License](#software-license)
+
+[Description of this software](#description-of-this-software)
+
+[User Story](#user-story) 
+
+[Acceptance Criteria](#acceptance-criteria)
+
+[Key Technologies Used](#key-technologies-used)
+
+[How to install and use](#how-to-install-and-use) 
+
+[Contact for Comments, Concerns, Questions, etc.](#contact)
+[Software License](software-license)
 Welcome to the README-generator!
 When you have properly set up Visual Studio Code, your Terminal should look like this and you can begin to use this app:
 ![README-generator](./assets/images/README-generator-splash.png)
