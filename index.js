@@ -93,7 +93,7 @@ inquirer
         */ 
         type: 'list',
         message: 'If this project falls under any licenses please enter the links for them below -- if there is none please leave it empty. For example: "https://mit-license.org"',
-        choices: ['None','mit-license.org','gnu.org/licenses/gpl.html','creativecommons.org/licenses/','freebsd.org/internal/software-license/'],
+        choices: ['None','https://mit-license.org','https://gnu.org/licenses/gpl.html','https://creativecommons.org/licenses/','https://freebsd.org/internal/software-license/'],
         name: 'licenselink'
     },
     {
