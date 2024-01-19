@@ -1,4 +1,4 @@
-[Software License](software-license)
+[Software License](software-license)<br>
 Welcome to the README-generator!
 When you have properly set up Visual Studio Code, your Terminal should look like this and you can begin to use this app:
 ![README-generator](./assets/images/README-generator-splash.png)
