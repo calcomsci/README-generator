@@ -23,7 +23,7 @@
 
 
 
-# Welcome README generator
+# Welcome README to the generator
 
 GNU License
 
@@ -32,7 +32,7 @@ gnu.org/licenses/gpl.html
 ## Description of this software
 
 
-README generator is a an app that makes a README.md for your software. Every good software demands a good README!
+README generator is an app that makes a README.md for your software. Every good software demands a good README!
 
 ## User Story
 
