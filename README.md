@@ -13,16 +13,11 @@
 
 [Key Technologies Used](#key-technologies-used)
 
-[How to Install and Use](#how-to-install-and-use) 
+[How to Install and Use](#how-to-install) 
 
 [Contact for Comments, Concerns, Questions, Etc.](#contact)
 <br>
 
-[Contact for Comments, Concerns, Questions, etc.](#contact) 
-<br>
-<br>
-[Software License](software-license)
->>>>>>> 612fa60d98979e0487868dd287eec42976df6065
 <br>
 Welcome to the README-generator!
 When you have properly set up Visual Studio Code, your Terminal should look like this and you can begin to use this app:
@@ -32,15 +27,15 @@ When you have properly set up Visual Studio Code, your Terminal should look like
 ## Software License
 Software license for this software:
 
-![1](/assets/images/2.png)
+![1](/assets/images/no-license.png)
 
 
 
 # 1
 
-MIT License
+None
 
-mit-license.org
+None
 
   
 ## Description
@@ -62,7 +57,7 @@ SO THAT I 1
 1
 
 
-You can view the software's web page at this link. [1](https://github.com/calcomsci)
+You can view the software's web page at this link. [1](1)
 
 ## Key Technologies Used
 
@@ -86,7 +81,7 @@ What 1 is used for:
 
 ## How to Install and Use(how-to-install)
 
-From Github, you can download the source code by clicking on the Code button and download the zip file here: https://www.github.com/calcomsci
+From Github, you can download the source code by clicking on the Code button and download the zip file here: https://www.github.com/1
 
 You will need a code editor to view the source code. You may try Visual Studio Code. You may download Visual Studio Code here: https://code.visualstudio.com/Download
 
@@ -97,6 +92,6 @@ You will probably need node.js to install packages from the source code. You may
 
 If you wish to contribute to this open source software, please contact me, and/or fork this on Github
 
-You can visit my Github profile (where you should have found out about this software) at: https://www.github.com/calcomsci
+You can visit my Github profile (where you should have found out about this software) at: https://www.github.com/1
 
-You can write an e-mail to calcomsci@outlook.com 
+You can write an e-mail to 1 
