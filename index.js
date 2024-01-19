@@ -204,7 +204,7 @@ What ${answers.third} is used for:
 
 ${answers.description3}
 
-## How to Install and Use(how-to-install)
+## How to Install and Use
 
 From Github, you can download the source code by clicking on the Code button and download the zip file here: https://www.github.com/${answers.githubname}
 
@@ -213,7 +213,7 @@ You will need a code editor to view the source code. You may try Visual Studio C
 You will probably need node.js to install packages from the source code. You may download node.js here: https://nodejs.org/en/download/
 
 
-## Contact for Comments, Concerns, Questions, Etc.(contact)
+## Contact for Comments, Concerns, Questions, Etc.
 
 If you wish to contribute to this open source software, please contact me, and/or fork this on Github
 
