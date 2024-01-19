@@ -24,11 +24,11 @@ When you have properly set up Visual Studio Code, your Terminal should look like
 ## Software License
 Software license for this software:
 
-![1](/assets/images/2.png)
+![Welcome to the README Generator!](/assets/images/2.png)
 
 
 
-# 1
+# Welcome to the README Generator!
 
 MIT License
 
@@ -37,48 +37,48 @@ mit-license.org
   
 ## Description
 
-1
+The README Generator creates a README file in Markdown (.MD) format. A README file is vital for documentation of all great software in case the user needs extra help, to contact the developer, etc.
 
 
 ## User Story
 
-AS A 1 
+AS A software developer 
 
-I WANT 1 
+I WANT create documentation for my software 
 
-SO THAT I 1
+SO THAT I I can help the users with the README Generator in case the users need it
 
 
 ## Acceptance Criteria
 
-1
+GIVEN a command-line application that accepts user input, WHEN I am prompted for information about my application repository, THEN a high-quality, professional README.md is generated with the title of my project and section entitled Descrption/Table of Contents/Installation/License/Contributing/Questions/Contact
 
 
-You can view the software's web page at this link. [1](1)
+You can view the software's web page at this link. [Welcome to the README Generator!](https://github.com/calcomsci/README-generator)
 
 ## Key Technologies Used
 
-1 
+Markdown 
 
-What 1  is used for:
+What Markdown  is used for:
 
-1
+Markdown is used as the programming language for the README file that is generated.
 
-1
+NodeJS
 
-What 1 is used for:
+What NodeJS is used for:
 
-1
+NodeJS is used to create the prompts on the screen
 
-1
+Github
 
-What 1 is used for:
+What Github is used for:
 
-1
+Github is used to upload the software package to the web.
 
 ## Installation
 
-From Github, you can download the source code by clicking on the Code button and download the zip file here: https://www.github.com/1
+From Github, you can download the source code by clicking on the Code button and download the zip file here: https://www.github.com/calcomsci
 
 You will need a code editor to view the source code. You may try Visual Studio Code. You may download Visual Studio Code here: https://code.visualstudio.com/Download
 
@@ -89,6 +89,6 @@ You will probably need node.js to install packages from the source code. You may
 
 If you wish to contribute to this open source software, please contact me, and/or fork this on Github
 
-You can visit my Github profile (where you should have found out about this software) at: https://www.github.com/1
+You can visit my Github profile (where you should have found out about this software) at: https://www.github.com/calcomsci
 
-You can write an e-mail to 1 
+You can write an e-mail to calcomsci@outlook.com 
