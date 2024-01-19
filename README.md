@@ -32,7 +32,7 @@ Software license for this software:
 
 MIT License
 
-mit-license.org
+https://mit-license.org
 
   
 ## Description
