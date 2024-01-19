@@ -23,7 +23,7 @@
 
 
 
-# Welcome README to the generator
+# Welcome to the README  generator
 
 GNU License
 
