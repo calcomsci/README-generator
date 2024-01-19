@@ -13,7 +13,7 @@
 
 [Key Technologies Used](#key-technologies-used)
 
-[How to Install and Use](#how-to-install) 
+[Installation](#how-to-install) 
 
 [Contact for Comments, Concerns, Questions, Etc.](#contact)
 
@@ -77,7 +77,7 @@ What 1 is used for:
 
 1
 
-## How to Install and Use
+## Installation
 
 From Github, you can download the source code by clicking on the Code button and download the zip file here: https://www.github.com/1
 
