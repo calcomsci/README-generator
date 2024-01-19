@@ -1,90 +1,72 @@
-## Table of Contents
+[Software License](software-license)
 
-[Table of Contents](#table-of-contents)
+Software license for this software:
 
-[Software License](#software-license)
-
-[Description of this software](#description-of-this-software)
-
-[User Story](#user-story) 
-
-[Acceptance Criteria](#acceptance-criteria)
-
-[Key Technologies Used](#key-technologies-used)
-
-[How to install and use](#how-to-install-and-use) 
-
-[Contact for Comments, Concerns, Questions, etc.](#contact)
-
-## Software License
-
-
-![Welcome to the README Generator](/assets/images/3.png)
+![Welcome to Hector De Perio's  README generator](/assets/images/2.png)
 
 
 
-# Welcome to the README  generator
+# Welcome to Hector De Perio's  README generator
 
-GNU License
+MIT License
 
-gnu.org/licenses/gpl.html
+mit-license.org
 
-## Description of this software
+  
+[Description of this software](description)
 
-
-README generator is an app that makes a README.md for your software. Every good software demands a good README!
-
-## User Story
+The README generator creates a readme file in Markdown (.MD) format that creates documentation for your Github repository, or any software that you want to make.
 
 
-AS A software developer
+[User Story](user-story) 
 
-I WANT a README for my software
+AS A software engineer 
 
-SO THAT I can make documentation for the software that I publish
+I WANT to create documentation for my software 
 
-## Acceptance Criteria
-
-
-GIVEN a command-line application that accepts user input, WHEN I am prompted for information about my application repository, THEN a high-quality, professional README.md is generated with the title of my project and section entitled Description/Table of Contents/Installation/Usage/License/Contributing/Tests/Questions
+SO THAT my users know how to use my software correctly, and know who to contact for support with the software
 
 
-You can view the software's web page at this link. [Welcome to README generator](https://calcomsci.github.io/README-generator/)
+[Acceptance Criteria](acceptance-criteria)
 
-## Key Technologies Used
+GIVEN a command-line application Visual Studio Code that accepts user input, WHEN I am prompted for information about my application repository, THEN a high-quality, professional README.md is generated with the title of my project and section entitled Description/Table of Contents/Installation/Usage/License/Contributing/Tests/Questions
 
-NODE.JS 
 
-What NODE.JS  is used for:
+You can view the software's web page at this link. [Welcome to Hector De Perio's  README generator](http://github.com/README-generator)
 
-NODE.JS is used to run JavaScript commands in the Bash or Terminal
+[Three Key Technologies Used, if any](key-technologies-used)
 
-JavaScript
+NodeJS 
 
-What JavaScript is used for:
+What NodeJS  is used for:
 
-JavaScript is main programming language used to build this software
+NodeJS is used to create the prompts for the user and to create the Markdown (.MD) file when the process is finished
 
-Markdown
+Visual Studio Code
 
-What Markdown is used for:
+What Visual Studio Code is used for:
 
-Markdown is used to generate the README.md, and this README file as well
+Visual Studio Code should be used to navigate through the questions and to look at the source code if you wish to look at it.
 
-## How to install and use
+Github
 
-Watch this YouTube video for instructions to get you started: https://youtu.be/-dIlbnUuC0c
+What Github is used for:
+
+Github is used to upload the repository and the site where you would upload the Markdown README file.
+
+[How to use and install this open source software](how-to-install)
 
 From Github, you can download the source code by clicking on the Code button and download the zip file here: https://www.github.com/calcomsci
 
 You will need a code editor to view the source code. You may try Visual Studio Code. You may download Visual Studio Code here: https://code.visualstudio.com/Download
 
-You will need node.js to install packages from the source code. You may download node.js here: https://nodejs.org/en/download/
+You will probably need node.js to install packages from the source code. You may download node.js here: https://nodejs.org/en/download/
 
-## Contact
-
+[Contact for Comments, Concerns, Questions, etc.](contact)
 
 If you wish to contribute to this open source software, please contact me, and/or fork this on Github
+
+[Contact for Comments, Concerns, Questions, etc.](contact)
 
 You can visit my Github profile (where you should have found out about this software) at: https://www.github.com/calcomsci
 
