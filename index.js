@@ -114,8 +114,12 @@ inquirer
     const mdPageContent = generateMarkdown(answers);
 
     fs.writeFile('README.md', mdPageContent, (err) =>
-      err ? console.log(err) : console.log('Success! The generated README.md should be in the same directory as the files from this application.')
+      err ? console.log(err) : console.log('Success! The generated README.md should be created in the same directory as this application.')
     );
+
+    fs.writeFile('README.txt', mdPageContent, (err) =>
+    err ? console.log(err) : console.log('Success! The generated README.txt should be created in the same directory as this application.')
+  );
   });
 
 const generateMarkdown = (answers) =>
