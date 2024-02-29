@@ -73,8 +73,8 @@ inquirer
 
     {
         type: 'list',
-        message: 'Please choose the pathway in your file for the license logo. The logos should be included in this app. Choose option 1 for no license, 2 for MIT License, 3 for GNU License, 4 for Creative Commons license, and 5 for FreeBSD',
-        choices: ['no-license.png','2.png','3.png','4.png','5.png'],
+        message: 'Please choose the pathway in your file for the license logo. The logos should be included in this app. Choose an option between no license, MIT License, GNU License, Creative Commons license, or FreeBSD',
+        choices: ['no-license.png','MIT.png','GNU.png','CC.png','FreeBSD.png'],
         name: 'giforpic',
     },
 
@@ -149,6 +149,9 @@ const generateMarkdown = (answers) =>
 Welcome to the README-generator!
 When you have properly set up Visual Studio Code, your Terminal should look like this and you can begin to use this app:
 ![README-generator](./assets/images/README-generator-splash.png)
+
+If you do not have a Terminal tab open in Visual Studio Code, please see the screenshot below:
+![README-generator](./assets/images/README-generator-open-terminal.png)
 
 ## Software License
 Software license for this software:

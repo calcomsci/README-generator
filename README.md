@@ -21,10 +21,13 @@ Welcome to the README-generator!
 When you have properly set up Visual Studio Code, your Terminal should look like this and you can begin to use this app:
 ![README-generator](./assets/images/README-generator-splash.png)
 
+If you do not have a Terminal tab open in Visual Studio Code, please see the screenshot below:
+![README-generator](./assets/images/README-generator-open-terminal.png)
+
 ## Software License
 Software license for this software:
 
-![Welcome to the README Generator!](/assets/images/2.png)
+![Welcome to the README Generator!](/assets/images/MIT.png)
 
 
 
@@ -54,7 +57,7 @@ SO THAT I can help the users with the README Generator in case the users need he
 GIVEN a command-line application that accepts user input, WHEN I am prompted for information about my application repository, THEN a high-quality, professional README.md is generated with the title of my project and section entitled Descrption/Table of Contents/Installation/License/Contributing/Questions/Contact
 
 
-You can view the software's web page at this link. [Welcome to the README Generator!](https://github.com/calcomsci/README-generator)
+You can view the software's web page at this link. [Welcome to the README Generator!](https://github.com/calcomsci/README-Generator)
 
 ## Key Technologies Used
 
@@ -62,19 +65,19 @@ Markdown
 
 What Markdown  is used for:
 
-Markdown is used as the programming language for the README files that are generated.
-
-NodeJS
-
-What NodeJS is used for:
-
-NodeJS is used to create the prompts on the screen
+Markdown is used as the programming language for the README files that are generated to create the prompts, organize the choices, and to create the MD and TXT file at the end of the program.
 
 Github
 
 What Github is used for:
 
 Github is used to upload the software package to the web.
+
+NodeJS
+
+What NodeJS is used for:
+
+NodeJS is used to create the prompts from inside the IDE.
 
 ## Installation
 
